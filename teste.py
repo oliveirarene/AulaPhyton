@@ -142,7 +142,5 @@ baterias = int(input("Quantos baterias "))
 resultado = int(minutos * int(baterias) * 300) / (15 * 5)
 print("A catapulta lançará {:.0f} pedras em {} baterias de {} minutos cada.".format(resultado, baterias, minutos))"""
 
-a = 1
-print(a)
 
 
